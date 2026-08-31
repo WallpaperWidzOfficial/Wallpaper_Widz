@@ -36,10 +36,10 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/home%20screen.jpeg?raw=true" width="230" alt="Home Screen"></td>
-      <td><img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Wallpaper.jpeg?raw=true" width="230" alt="Wallpapers"></td>
-      <td><img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Categories.jpeg?raw=true" width="230" alt="Categories"></td>
-      <td><img src="https://github.com/itzmadushannn/WallpaperWidz/blob/main/Catagories/Apply.jpeg?raw=true" width="230" alt="Apply Process"></td>
+      <td><img src="https://i.postimg.cc/g2DHbPFX/home-screen.jpg" width="230" alt="Home Screen"></td>
+      <td><img src="https://i.postimg.cc/cLmBGNyH/Wallpaper.jpg" width="230" alt="Wallpapers"></td>
+      <td><img src="https://i.postimg.cc/fRKfQhn3/Categories.jpg" width="230" alt="Categories"></td>
+      <td><img src="https://i.postimg.cc/YCkzPCVW/Apply.jpg" width="230" alt="Apply Process"></td>
     </tr>
   </table>
 </div>
