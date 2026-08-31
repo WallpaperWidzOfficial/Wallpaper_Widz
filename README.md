@@ -56,7 +56,7 @@
 
 ## 📥 Download Release APK
 
-Download the latest production release directly from the [Releases](https://github.com/itzmadushannn/Wallpaper_Widz/releases) page.
+Download the latest production release directly from the [Releases](https://github.com/WallpaperWidzOfficial/Wallpaper_Widz/releases) page.
 
 ---
 
