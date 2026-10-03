@@ -31,15 +31,27 @@
 
 ---
 
+## ✨ What's New in v1.2.0
+
+- 🫧 **Liquid Glass Mode:** Added a premium glass-style visual mode with smoother blur, transparency, reflections, and depth effects.
+- 🌌 **Animation Modes:** Added immersive animated background modes including **Cosmic Space, Nature, Nebula, and Rain**.
+- ⚡ **Smoother Experience:** Improved animations, scrolling, wallpaper loading, navigation, and overall app responsiveness.
+- 🖼️ **New Wallpaper Collections:** Added new high-quality wallpaper collections with more categories and fresh wallpapers.
+- 🪄 **Enhanced Magic Box:** Improved the Magic Box experience with more immersive visuals and a dedicated clock-side background.
+- 🚀 **Performance Improvements:** Optimized image handling, preloading, and widget behavior for a faster and smoother browsing experience.
+- 🌗 **Refined UI:** Improved visual polish across Dark/Light themes, glass effects, animations, and interactive elements.
+
+---
+
 ## 📸 Screenshots
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://i.postimg.cc/g2DHbPFX/home-screen.jpg" width="230" alt="Home Screen"></td>
-      <td><img src="https://i.postimg.cc/cLmBGNyH/Wallpaper.jpg" width="230" alt="Wallpapers"></td>
-      <td><img src="https://i.postimg.cc/fRKfQhn3/Categories.jpg" width="230" alt="Categories"></td>
-      <td><img src="https://i.postimg.cc/YCkzPCVW/Apply.jpg" width="230" alt="Apply Process"></td>
+      <td><img src="https://i.postimg.cc/3r2Bxm36/Whats-App-Image-2026-10-04-at-00-56-25.jpg" width="230" alt="Home Screen"></td>
+      <td><img src="https://i.postimg.cc/gc3D28YF/Whats-App-Image-2026-10-04-at-00-56-24-(1).jpg" width="230" alt="Categories"></td>
+      <td><img src="https://i.postimg.cc/L4jT8LHd/Whats-App-Image-2026-10-04-at-00-56-24.jpg" width="230" alt="Search Box"></td>
+      <td><img src="https://i.postimg.cc/qB2LvykH/Whats-App-Image-2026-10-04-at-00-56-24-(2).jpg" width="230" alt="New Settings"></td>
     </tr>
   </table>
 </div>
